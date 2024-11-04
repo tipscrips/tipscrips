@@ -2,7 +2,7 @@
 
 I'm a frontend developer passionate about creating web applications and interfaces. In my profile, you'll find examples of my projects and mini-apps built with HTML, CSS, JavaScript. Currently working with react, redux and redux toolkit, wordpress, material ui, bootstrap and other libraries for UI.
 
-## My Projects
+## My Pet Projects
 
 ### [Social Network SPA](https://fake-social-network.netlify.app)
 A simple social network app where users can like posts and visit other users' profiles. Works with fake server, so it may work slow

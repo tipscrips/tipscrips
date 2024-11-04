@@ -5,8 +5,7 @@ I'm a frontend developer passionate about creating web applications and interfac
 ## My Projects
 
 ### [Social Network SPA](https://fake-social-network.netlify.app)
-A simple social network app where users can like posts and visit other users' profiles.
-Tech Stack: HTML, CSS, JavaScript
+A simple social network app where users can like posts and visit other users' profiles. Works with fake server, so it may work slow
 **Stack**: HTML, CSS, JavaScript  
 [Project Code](https://github.com/tipscrips/FakeSocial)
 

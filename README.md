@@ -11,11 +11,13 @@ Tech Stack: HTML, CSS, JavaScript
 **Stack**: HTML, CSS, JavaScript  
 [Project Code](https://github.com/tipscrips/FakeSocial)
 
+
 ### [AIM Trainer](https://expozone.netlify.app)
 
 A basic web app for aim training, designed to improve targeting skills.
 **Stack**: HTML, CSS, JavaScript  
 [Project Code](https://github.com/tipscrips/-oordinates)
+
 
 ### [Omni Landing Page](https://ezomni.netlify.app/)
 
@@ -25,15 +27,18 @@ A beautiful landing page showcasing my HTML and CSS skills.
 
 ### [Entry task test](https://convertmetest.netlify.app/)
 
+
 A small test task on layout
 **Stack**: HTML, CSS, JavaScript
 [Project Code](https://github.com/tipscrips/ConvertMe)
 
 ### [Lis Chair Shop](https://lischairshop.netlify.app)
 
+
 A simple landing page designed to demonstrate my front-end development skills.
 **Stack**: HTML, CSS  
 [Project Code](https://github.com/tipscrips/CHAIRS-SHOP)
+
 
 ## Contact
 

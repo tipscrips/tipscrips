@@ -22,8 +22,7 @@ A beautiful landing page showcasing my HTML and CSS skills.
 
 ### [Entry task test](https://convertmetest.netlify.app/)
 A small test task on layout
-**Stack**: HTML, CSS, JavaScript
-
+**Stack**: HTML, CSS, JavaScript <br/>
 [Project Code](https://github.com/tipscrips/ConvertMe)
 
 ### [Lis Chair Shop](https://lischairshop.netlify.app)

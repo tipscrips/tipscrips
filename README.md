@@ -5,42 +5,32 @@ I'm a frontend developer passionate about creating web applications and interfac
 ## My Projects
 
 ### [Social Network SPA](https://fake-social-network.netlify.app)
-
 A simple social network app where users can like posts and visit other users' profiles.
 Tech Stack: HTML, CSS, JavaScript
 **Stack**: HTML, CSS, JavaScript  
 [Project Code](https://github.com/tipscrips/FakeSocial)
 
-
 ### [AIM Trainer](https://expozone.netlify.app)
-
 A basic web app for aim training, designed to improve targeting skills.
 **Stack**: HTML, CSS, JavaScript  
 [Project Code](https://github.com/tipscrips/-oordinates)
 
 
 ### [Omni Landing Page](https://ezomni.netlify.app/)
-
 A beautiful landing page showcasing my HTML and CSS skills.
 **Stack**: HTML, CSS  
 [Project Code](https://github.com/tipscrips/Omnifood)
 
 ### [Entry task test](https://convertmetest.netlify.app/)
-
-
 A small test task on layout
 **Stack**: HTML, CSS, JavaScript
 [Project Code](https://github.com/tipscrips/ConvertMe)
 
 ### [Lis Chair Shop](https://lischairshop.netlify.app)
-
-
 A simple landing page designed to demonstrate my front-end development skills.
 **Stack**: HTML, CSS  
 [Project Code](https://github.com/tipscrips/CHAIRS-SHOP)
 
-
 ## Contact
-
 - LinkedIn: [LinkedIn](www.linkedin.com/in/eldarabdu)
 - Email: eldarabdu@gmail.com
